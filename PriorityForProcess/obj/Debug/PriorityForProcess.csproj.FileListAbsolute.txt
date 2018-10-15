@@ -1,0 +1,9 @@
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\bin\Debug\PriorityForProcess.exe
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\bin\Debug\PriorityForProcess.pdb
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.csprojAssemblyReference.cache
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.Properties.Resources.resources
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.csproj.GenerateResource.cache
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.csproj.CoreCompileInputs.cache
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.exe
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.pdb
+C:\Users\sneakyevil\source\repos\PriorityForProcess\PriorityForProcess\obj\Debug\PriorityForProcess.Form1.resources
